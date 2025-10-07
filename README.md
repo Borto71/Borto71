@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Running-Social app and F1ML with a Web app interface<br>🤝 I’m looking for help with The-Onion-Team organization on GitHub<br>🌱 I’m currently learning RISC-V and PULP.<br>💬 Ask me about Verilog and Assembly<br>⚡ Fun fact I love Cars movies and F1
+🔭 I’m currently working on my Internship on RISC-V and Verilog and Onion Org.<br>🤝 I’m looking for help with The-Onion-Team organization on GitHub<br>🌱 I’m currently learning RISC-V and PULP.<br>💬 Ask me about Verilog and Assembly<br>⚡ Fun fact I love Cars movies and F1
 
 
 ## 🌐 Socials:
