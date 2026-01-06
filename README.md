@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Internship on RISC-V, Verilog and Onion Org.<br>🤝 I’m looking for help with The-Onion-Team organization on GitHub<br>🌱 I’m currently learning RISC-V and PULP.<br>💬 Ask me about Verilog and Assembly<br>⚡ Fun fact I love Cars movies and F1
+🔭 I’m currently working on my Internship on RISC-V and ML<br>🤝 I’m looking for help with The-Onion-Team organization on GitHub<br>🌱 I’m currently learning RISC-V, ML and Python.<br>💬 Ask me about Verilog and Assembly<br>⚡ Fun fact I love Cars movies and F1
 
 
 ## 🌐 Socials:
