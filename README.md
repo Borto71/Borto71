@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently concluding my Bachelor's degree at the University of Verona, conducting research in the fields of ML and DL.<br>🤝 I’m looking for help with The-Onion-Team organization on GitHub<br>🌱 I’m currently learning RISC-V, ML and Python.<br>💬 Ask me about Verilog and Assembly<br>⚡ Fun fact I love Cars movies and F1
+🔭 I am currently concluding my Bachelor's degree at the University of Verona, conducting research in the fields of ML and DL.<br>🤝 I’m looking for help with The-Onion-Team organization on GitHub<br>🌱 I’m currently learning SNN and GNN<br>💬 Ask me about Verilog and Assembly<br>⚡ Fun fact I love Cars movies and F1
 
 
 ## 🌐 Socials:
