@@ -11,6 +11,8 @@ Finishing my bachelor's (March 2026) → starting the master's right after.
 [![X](https://img.shields.io/badge/X-@borto04-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/borto04)
 [![Instagram](https://img.shields.io/badge/Instagram-@m.borto71-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/m.borto71/)
 
+![F1 GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhtb3ZsdDJhZW91cnE2cm9jeTVucG84bGNnNmd4NGRodTJsYWR3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5wFkSv7aEyXJLdXtsv/giphy.gif)
+
 </div>
 
 ---
