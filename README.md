@@ -50,7 +50,8 @@ Leading the build of a 1:10-scale autonomous racing car, from hardware bring-up 
 
 Two hands-on explorations in automotive electronics: an **Anti-lock Braking System** modeled in Verilog and deployed on a PYNQ-Z1 FPGA, simulating slip detection and valve control under straight and steering braking scenarios — and **OBDLink-BLE**, a FreeRTOS-based ESP32 bridge that streams live OBD-II data from a car's ECU to a phone over Bluetooth Low Energy, with a Web Bluetooth dashboard and on-device error-code logging.
 
-[`ABS-with-PYNQ-Z1`](https://github.com/Borto71/ABS-with-PYNQ-Z1) · [`OBDLink-BLE`](https://github.com/Borto71/OBDLink-BLE)
+[`ABS-with-PYNQ-Z1`](https://github.com/Borto71/ABS-with-PYNQ-Z1)<br>
+[`OBDLink-BLE`](https://github.com/Borto71/OBDLink-BLE)
 
 </td>
 </tr>
