@@ -62,13 +62,17 @@ Two hands-on explorations in automotive electronics: an **Anti-lock Braking Syst
 
 A machine learning pipeline for fault detection and anomaly classification on aircraft landing gear, built on time-series sensor data across TAXI, LANDING, TAKEOFF, and BITE mission profiles. Nine neural architectures — from full CNNs down to TinyCNN/TinyMLP variants sized for MCU deployment — tackle both 4-class fault diagnosis and binary anomaly detection. Published and presented at IETF (Sweden).
 
+`TinyCNN` · `TinyMLP` · IETF 2026
+
 </td>
 <td width="50%" valign="top">
 
 #### 🏆 FantaF1
 *Node.js · launching Sept 2026*
 
-A Fantasy F1 web app built around a "Dynasty" league format, designed to go beyond a personal project and support a real user base at launch.
+A Fantasy F1 web app built around a "Dynasty" league format — persistent rosters and continuity across seasons rather than a fresh draft every year — designed to go beyond a personal project and support a real user base at launch.
+
+`Node.js` · Dynasty League
 
 </td>
 </tr>
