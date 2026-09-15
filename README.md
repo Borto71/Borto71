@@ -22,8 +22,8 @@ Finishing my bachelor's (March 2026) → starting the master's right after.
 I build autonomous racing systems, embedded AI for real hardware, and fault-diagnosis pipelines for safety-critical applications. Currently leading **RoboRacer** at ICE Lab — a 1:10-scale autonomous racing car built for the F1TENTH competition.
 
 **Research focus:**
-- 🏎️ Autonomous racing — perception, planning, control
-- 🧠 Edge ML — CNNs on Jetson, quantization, sim2real transfer
+- 🏎️ Autonomous racing - perception, planning, control
+- 🧠 Edge ML - CNNs on Jetson, quantization, sim2real transfer
 - 🔧 FPGA & embedded C/C++
 - 🚗 Everything automotive
 
@@ -38,7 +38,7 @@ I build autonomous racing systems, embedded AI for real hardware, and fault-diag
 #### 🏁 RoboRacer
 *ICE Lab · F1TENTH*
 
-Leading the build of a 1:10-scale autonomous racing car, from hardware bring-up to a full sim-to-real pipeline. The stack runs on Jetson Orin with ROS 2 Humble and VESC actuation, backed by a custom multi-fidelity simulation setup — ICE Lab Gym → AutoDRIVE → HIL → physical car — so control and perception code can be validated before it ever touches the real chassis.
+Leading the build of a 1:10-scale autonomous racing car, from hardware bring-up to a full sim-to-real pipeline. The stack runs on Jetson Orin with ROS 2 Humble and VESC actuation, backed by a custom multi-fidelity simulation setup - ICE Lab Gym → AutoDRIVE → HIL → physical car - so control and perception code can be validated before it ever touches the real chassis.
 
 `f1tenth_gym` · `f1tenth_gym_training`
 
