@@ -78,8 +78,14 @@ A Fantasy F1 web app built around a "Dynasty" league format, designed to go beyo
 ![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Jetson](https://img.shields.io/badge/Jetson_Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Verilog](https://img.shields.io/badge/FPGA%20%2F%20Verilog-A31F34?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-A31F34?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </div>
 
