@@ -45,23 +45,30 @@ Leading the build of a 1:10-scale autonomous racing car, from hardware bring-up 
 </td>
 <td width="50%" valign="top">
 
-#### ✈️ Landing Gear Fault Diagnosis
-*Leonardo S.p.A. collaboration*
+#### 🚗 Automotive Embedded Systems
+*Personal projects*
 
-A machine learning pipeline for fault detection and anomaly classification on aircraft landing gear, built on time-series sensor data across TAXI, LANDING, TAKEOFF, and BITE mission profiles. Nine neural architectures — from full CNNs down to TinyCNN/TinyMLP variants sized for MCU deployment — tackle both 4-class fault diagnosis and binary anomaly detection. Published and presented at IETF (Sweden).
+Two hands-on explorations in automotive electronics: an **Anti-lock Braking System** modeled in Verilog and deployed on a PYNQ-Z1 FPGA, simulating slip detection and valve control under straight and steering braking scenarios — and **OBDLink-BLE**, a FreeRTOS-based ESP32 bridge that streams live OBD-II data from a car's ECU to a phone over Bluetooth Low Energy, with a Web Bluetooth dashboard and on-device error-code logging.
+
+[`ABS-with-PYNQ-Z1`](https://github.com/Borto71/ABS-with-PYNQ-Z1) · [`OBDLink-BLE`](https://github.com/Borto71/OBDLink-BLE)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+#### ✈️ Landing Gear Fault Diagnosis
+*Leonardo S.p.A. collaboration*
+
+A machine learning pipeline for fault detection and anomaly classification on aircraft landing gear, built on time-series sensor data across TAXI, LANDING, TAKEOFF, and BITE mission profiles. Nine neural architectures — from full CNNs down to TinyCNN/TinyMLP variants sized for MCU deployment — tackle both 4-class fault diagnosis and binary anomaly detection. Published and presented at IETF (Sweden).
+
+</td>
+<td width="50%" valign="top">
+
 #### 🏆 FantaF1
 *Node.js · launching Sept 2026*
 
 A Fantasy F1 web app built around a "Dynasty" league format, designed to go beyond a personal project and support a real user base at launch.
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
