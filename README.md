@@ -1,9 +1,90 @@
-# 💫 About Me:
-🔭 I am currently concluding my Bachelor's degree at the University of Verona, conducting research in the fields of ML and DL.<br>🤝 I’m looking for help with The-Onion-Team organization on GitHub<br>🌱 I’m currently learning SNN and GNN<br>💬 Ask me about Machine Learning and Assembly<br>⚡ Fun fact I love Cars movies and F1
+<div align="center">
 
+# Hi, I'm Borto 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.borto71) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/borto04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mattiaborto71@gmail.com) 
+**Embedded Systems · AI/ML · Automotive**
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Computer Science @ Università di Verona · ICE Lab
+Finishing my bachelor's (March 2026) → starting the master's right after.
+
+[![Email](https://img.shields.io/badge/Email-mattiaborto71%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mattiaborto71@gmail.com)
+[![X](https://img.shields.io/badge/X-@borto04-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/borto04)
+[![Instagram](https://img.shields.io/badge/Instagram-@m.borto71-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/m.borto71/)
+
+</div>
+
+---
+
+### 🚀 What I Do
+
+I build autonomous racing systems, embedded AI for real hardware, and fault-diagnosis pipelines for safety-critical applications. Currently leading **RoboRacer** at ICE Lab — a 1:10-scale autonomous racing car built for the F1TENTH competition.
+
+**Research focus:**
+- 🏎️ Autonomous racing — perception, planning, control
+- 🧠 Edge ML — CNNs on Jetson, quantization, sim2real transfer
+- 🔧 FPGA & embedded C/C++
+- 🚗 Everything automotive
+
+---
+
+### 🛠️ Current Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏁 RoboRacer
+*ICE Lab · F1TENTH*
+
+Leading the build of a 1:10-scale autonomous racing car, from hardware bring-up to a full sim-to-real pipeline. The stack runs on Jetson Orin with ROS 2 Humble and VESC actuation, backed by a custom multi-fidelity simulation setup — ICE Lab Gym → AutoDRIVE → HIL → physical car — so control and perception code can be validated before it ever touches the real chassis.
+
+`f1tenth_gym` · `f1tenth_gym_training`
+
+</td>
+<td width="50%" valign="top">
+
+#### ✈️ Landing Gear Fault Diagnosis
+*Leonardo S.p.A. collaboration*
+
+A machine learning pipeline for fault detection and anomaly classification on aircraft landing gear, built on time-series sensor data across TAXI, LANDING, TAKEOFF, and BITE mission profiles. Nine neural architectures — from full CNNs down to TinyCNN/TinyMLP variants sized for MCU deployment — tackle both 4-class fault diagnosis and binary anomaly detection. Published and presented at IETF (Sweden).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏆 FantaF1
+*Node.js · launching Sept 2026*
+
+A Fantasy F1 web app built around a "Dynasty" league format, designed to go beyond a personal project and support a real user base at launch.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Jetson](https://img.shields.io/badge/Jetson_Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Verilog](https://img.shields.io/badge/FPGA%20%2F%20Verilog-A31F34?style=for-the-badge)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building the systems that let machines drive themselves — one lap, one landing, one dataset at a time.*
+
+</div>
