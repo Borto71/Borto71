@@ -19,7 +19,11 @@ Finishing my bachelor's (March 2026) → starting the master's right after.
 
 ### 🚀 What I Do
 
-I build autonomous racing systems, embedded AI for real hardware, and fault-diagnosis pipelines for safety-critical applications. Currently leading **RoboRacer** at ICE Lab — a 1:10-scale autonomous racing car built for the F1TENTH competition.
+I'm a developer who loves building tools and engineering automotive-related tech. 🏎️⚙️ 
+
+* 🎓 Currently finishing my Bachelor's degree.
+* 🤖 Collaborating on the **Roboracer** project at the ICE Lab in Verona.
+* 🏁 Building a **FantaF1** app — check it out at [@OnionOrg](https://github.com/OnionOrg)!
 
 **Research focus:**
 - 🏎️ Autonomous racing - perception, planning, control
