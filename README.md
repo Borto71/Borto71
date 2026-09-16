@@ -23,7 +23,7 @@ I'm a developer who loves building tools and engineering automotive-related tech
 
 * 🎓 Currently finishing my Bachelor's degree.
 * 🤖 Collaborating on the **Roboracer** project at the ICE Lab in Verona.
-* 🏁 Building a **FantaF1** app — check it out at [@OnionOrg](https://github.com/OnionOrg)!
+* 🏁 Building a **FantaF1** app — check it out at [@OnionOrg]([https://github.com/OnionOrg](https://github.com/The-Onion-Team))!
 
 **Research focus:**
 - 🏎️ Autonomous racing - perception, planning, control
