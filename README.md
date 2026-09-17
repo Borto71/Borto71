@@ -107,8 +107,4 @@ A Fantasy F1 web app built around a "Dynasty" league format — persistent roste
 
 ---
 
-<div align="center">
-
-*Building the systems that let machines drive themselves — one lap, one landing, one dataset at a time.*
-
 </div>
