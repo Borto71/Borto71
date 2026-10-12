@@ -21,8 +21,8 @@ Finishing my bachelor's (March 2026) → starting the master's right after.
 
 I'm a developer who loves building tools and engineering automotive-related tech. 🏎️⚙️ 
 
-* 🎓 Currently finishing my Bachelor's degree.
-* 🤖 Collaborating on the **Roboracer** project at the ICE Lab in Verona.
+* 🎓 Currently finishing my Bachelor's degree in CS.
+* 🤖 Collaborating on the **Roboracer** project at the ICE Lab in Verona and with the ICE Lab. in Verona.
 * 🏁 Building a **FantaF1** app — check it out at [@OnionOrg](https://github.com/The-Onion-Team)!
 
 **Research focus:**
